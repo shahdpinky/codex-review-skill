@@ -1,0 +1,8 @@
+{
+  "name": "codex-review",
+  "description": "Invoke OpenAI Codex CLI from Claude Code to review code changes. Supports uncommitted changes, branch diffs, specific commits, and custom review prompts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Andy Wang"
+  }
+}
